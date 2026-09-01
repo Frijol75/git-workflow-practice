@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Dependencies (por si más adelante agregas tooling con npm)
+node_modules/
+
+# Build output (por si usas algún bundler más adelante)
+dist/
+build/
