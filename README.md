@@ -49,3 +49,6 @@ entre sí.
 ## Licencia
 
 MIT — ver [LICENSE](./LICENSE).
+
+## Contacto
+eduardo.moreno@iteso.mx
