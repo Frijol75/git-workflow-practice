@@ -141,7 +141,7 @@ body {
 .project-card {
   background: #fdfcf9;
   border: 1px solid var(--line);
-  padding: 22px 24px;
+  padding: 22px 28px;
 }
 
 .project-card h3 {
